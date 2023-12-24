@@ -1,4 +1,8 @@
+Thanks for downloading this template!
+
 Template Name: Blue Horse Industries
-Template URL: https://softwaredevelopmentandgraphicdesign.tech/Blue Horse Industries-bootstrap-photography-website-template/
-Author: venkatesh ponraj
-License: https://softwaredevelopmentandgraphicdesign.tech/license/
+
+Template URL: https://bootstrapmade.com/Blue Horse Industries
+-bootstrap-metro-style-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/

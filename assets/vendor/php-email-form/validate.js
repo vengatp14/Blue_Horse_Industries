@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation - v3.6
-* URL: https://softwaredevelopmentandgraphicdesign.tech/php-email-form/
-* Author: SDGD.com
+* URL: https://bootstrapmade.com/php-email-form/
+* Author: BootstrapMade.com
 */
 (function () {
   "use strict";
